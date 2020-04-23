@@ -1,0 +1,8 @@
+04/23/2020 12:44:41 PM - SeleniumDriver - INFO: Element not found with locator: '//a[@href=/sign_in]' and  locatorType: xpath
+04/23/2020 12:44:41 PM - SeleniumDriver - INFO: Cannot click on the element with locator: '//a[@href=/sign_in]' locatorType: xpath
+04/23/2020 12:44:44 PM - SeleniumDriver - INFO: Element not found with locator: user_email and  locatorType: id
+04/23/2020 12:44:44 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: user_email locatorType: id
+04/23/2020 12:44:47 PM - SeleniumDriver - INFO: Element not found with locator: user_password and  locatorType: id
+04/23/2020 12:44:47 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: user_password locatorType: id
+04/23/2020 12:44:50 PM - SeleniumDriver - INFO: Element not found with locator: commit and  locatorType: name
+04/23/2020 12:44:50 PM - SeleniumDriver - INFO: Cannot click on the element with locator: commit locatorType: name
