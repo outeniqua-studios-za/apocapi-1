@@ -22,3 +22,15 @@
 04/23/2020 01:19:01 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
 04/23/2020 01:19:01 PM - LoginPage - INFO: Element Found with locator: commit and  locatorType: name
 04/23/2020 01:19:04 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+04/23/2020 02:15:07 PM - HomePage - INFO: Element Found with locator: email and  locatorType: id
+04/23/2020 02:15:07 PM - HomePage - INFO: Element Found
+04/23/2020 02:57:00 PM - HomePage - INFO: Element Found with locator: email and  locatorType: id
+04/23/2020 02:57:00 PM - HomePage - INFO: Element Found
+04/23/2020 03:00:32 PM - HomePage - INFO: Element not found with locator: social_twitter and  locatorType: id
+04/23/2020 03:00:32 PM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
+04/23/2020 03:02:16 PM - HomePage - INFO: Element not found with locator: social_twitter and  locatorType: id
+04/23/2020 03:02:16 PM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
+04/23/2020 03:05:13 PM - HomePage - INFO: Element not found with locator: social_twitter and  locatorType: id
+04/23/2020 03:05:13 PM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
+04/24/2020 01:16:06 AM - HomePage - INFO: Element not found with locator: social_twitter and  locatorType: id
+04/24/2020 01:16:06 AM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id

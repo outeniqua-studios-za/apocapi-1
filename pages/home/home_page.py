@@ -34,3 +34,10 @@ class HomePage(SeleniumDriver):
     def verifyEmailButtonExist(self):
         result = self.isElementPresent(self._email_button)
         return result
+
+    def verifyPageLoadSuccessful(self):
+        result = self.isElementPresent(self._email_button)
+        return result
+
+    def clickTwitterSocialLink(self):
+        self.elementClick(self._social_twitter)
