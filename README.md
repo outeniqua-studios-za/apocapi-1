@@ -1,5 +1,5 @@
 # apocapi
-I am a selenium test automation framework written in Python 3
+I am a python test automation framework for Selenium and Appium
 
 ### Usage:
 
