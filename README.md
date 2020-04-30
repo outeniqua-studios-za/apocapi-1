@@ -1,5 +1,5 @@
 # apocapi
-I am a python test automation framework for Selenium and Appium
+I am a python web and mobile test automation framework for Selenium and Appium
 
 ### Prerequistes
 
