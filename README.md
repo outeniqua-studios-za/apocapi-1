@@ -12,7 +12,7 @@ I am a python test automation framework for Selenium and Appium
 - Setup venv
 - Install selenium package ``` pip install selenium ```
 - Install appium ``` npm install -g appium ```
-- To run Appium Server execute ``` appium ```
+- To run appium server execute ``` appium ```
 - Run ``` py.test -s -v test/%folder/teststorun%.py ``` from project root
 - Results are logged in ``` testresults.log ```
 - Screenshots are stored in ``` screenshots ``` folder for failed tests
