@@ -1,5 +1,5 @@
 # apocapi
-I am a python web and mobile test automation framework
+A Python web and mobile test automation framework
 
 ### Prerequistes
 
