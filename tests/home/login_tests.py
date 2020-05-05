@@ -17,7 +17,7 @@ class LoginTests(unittest.TestCase):
         self.lp.login("test@email.com", "abcabc")
         result = self.lp.verifyLoginSuccessful()
         assert result == True
-        
+
 
     @pytest.mark.run(order=1)
     def test_invalidLogin(self):
