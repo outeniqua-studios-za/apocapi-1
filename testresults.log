@@ -34,3 +34,23 @@
 04/23/2020 03:05:13 PM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
 04/24/2020 01:16:06 AM - HomePage - INFO: Element not found with locator: social_twitter and  locatorType: id
 04/24/2020 01:16:06 AM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+05/05/2020 10:59:02 AM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+05/05/2020 10:59:02 AM - LoginPage - INFO: Element not found

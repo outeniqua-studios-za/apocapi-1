@@ -7,11 +7,13 @@ class MyTestCase(unittest.TestCase):
     driver = None
 
     def setUp(self):
-        self.dc['app'] = "D:\\Builds\\Test\\eribank.apk"
+        self.dc['app'] = "D:\\Builds\\Test\\app-debug.apk"
         self.dc['appPackage'] = "com.experitest.ExperiBank"
         self.dc['appActivity'] = "LoginActivity"
         self.dc['platformName'] = 'Android'
         self.dc['deviceName'] = 'HMD Global Nokia 8 Sirocco'
+        self.dc['noSign'] = 'true'
+        self.dc['remoteAppsCacheLimit '] = 0
 
         self.driver = webdriver.Remote("http://localhost:4723/wd/hub", self.dc)
 

@@ -3,11 +3,10 @@ from traceback import print_stack
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
-from appium import webdriver
 import utilities.custom_logger as cl
 import logging
 
-# Custom Selenium Driver
+
 class SeleniumDriver():
 
     log = cl.customLogger(logging.DEBUG)
@@ -40,7 +39,7 @@ class SeleniumDriver():
             locatorType = locatorType.lower()
             byType = self.getByType(locatorType)
             element = self.driver.find_element(byType, locator)
-            self.log.info("Element Found with locator: " + locator +
+            self.log.info("Element found with locator: " + locator +
                           " and  locatorType: " + locatorType)
         except:
             self.log.info("Element not found with locator: " + locator +
@@ -79,7 +78,7 @@ class SeleniumDriver():
                 self.log.info("Element not found")
                 return False
         except:
-            self.log.info("Element not found")
+            print("Element not found")
             return False
 
     def elementPresenceCheck(self, locator, byType):
