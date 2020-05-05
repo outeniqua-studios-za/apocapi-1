@@ -1,5 +1,5 @@
 # apocapi
-A Python web and mobile test automation framework
+A Python test automation framework for Selenium
 
 ### Prerequistes
 
