@@ -34,3 +34,5 @@
 04/23/2020 03:05:13 PM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
 04/24/2020 01:16:06 AM - HomePage - INFO: Element not found with locator: social_twitter and  locatorType: id
 04/24/2020 01:16:06 AM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
+05/10/2020 11:51:54 AM - HomePage - INFO: Element not found with locator: social_twitter and  locatorType: id
+05/10/2020 11:51:54 AM - HomePage - INFO: Cannot click on the element with locator: social_twitter locatorType: id
